@@ -1,0 +1,69 @@
+New Girl
+Sitcom
+7
+Heartstopper
+Romance
+3
+Never Have I Ever
+Coming-of-Age
+4
+Outer Banks
+Thriller
+4
+On My Block
+Drama
+4
+Sister, Sister
+Sitcom
+6
+Cobra Kai
+Drama
+6
+Back to 15
+Comming-of-Age
+3
+The 100
+Science Fiction
+7
+H2O: Just Add Water
+Fantasy
+3
+How I Met Your Mother
+Sitcom
+9
+Bridgerton
+Romance
+3
+XO, Kitty
+Coming-of-Age
+1
+Heartbreak High
+Drama
+1
+Suits
+Drama
+9
+Gossip Girl 
+Drama
+6
+Teen Wolf
+Fantasy
+6
+Gilmore Girls
+Drama
+7
+White Collar
+Crime
+6
+The Good Place
+Fantasy
+4
+Supergirl
+Action
+6
+Arrow
+Action
+8
+The Flash
+Action 
+9
